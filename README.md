@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lorcann
+- 👀 I’m interested in ... Web Design & Development, WordPress, Game Development hobbyist
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... Not sure
+- 📫 How to reach me ... lorcannolan2020@protonmail.com
