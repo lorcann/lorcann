@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lorcann
-- 👀 I’m interested in ... Web Design & Development, WordPress, Game Development hobbyist
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Not sure
-- 📫 How to reach me ... lorcannolan2020@protonmail.com
+👋 Hi, I’m @lorcann
+- 👀 I’m interested in web development, SEO optimisation, and combining tech with the equine industry. I also have a strong passion for illustration and animation.
+- 🌱 I’m currently expanding my knowledge in Python and exploring new frameworks and tools for WordPress.
+- 💞️ I’m looking to collaborate on innovative web projects, especially those in the equine space, or any projects that bridge technology with art and design.
+- 📫 How to reach me: lorcanirl@proton.me
